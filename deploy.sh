@@ -23,4 +23,3 @@ git commit -m 'deploy'
 git push -f git@github.com:VadimFront-end/simon-game-VueJS.git master:gh-pages
 
 cd -
-
